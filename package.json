@@ -1,0 +1,20 @@
+{
+  "name": "maze-game",
+  "version": "1.0.0",
+  "description": "A simple maze game built with HTML, CSS, and JavaScript.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "maze",
+    "game",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
